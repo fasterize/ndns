@@ -1,0 +1,17 @@
+{
+  "name": "ndns",
+  "description": "dns library for node.js",
+  "version": "0.1.1",
+  "homepage": "http://github.com/fasterize/ndns",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fasterize/ndns.git"
+  },
+  "author": "tomas",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
